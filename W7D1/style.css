@@ -1,0 +1,72 @@
+header {background-color: aquamarine;
+text-align: center;
+padding: 20px;
+border-radius: 0 0 30px 30px;
+
+}
+h1 {color: brown;
+    margin: 20px;
+    padding: 8px;
+   
+    font-size: 2em;
+}
+h2{
+    color: brown;
+  
+
+}
+#titoli{
+    margin-bottom: 10px;
+   border: solid 3px beige;
+   border-radius: 30px;
+}
+h3{
+    font-size: 1.4em;
+}
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+
+}
+
+header img {
+    margin-top: 20px;
+    border-radius: 30px;    
+}
+
+main{
+padding: 0 35px;
+}
+
+#contatti {
+    border: solid 2px aquamarine;
+    padding: 0 15;
+    margin-top: 30px;
+    border-radius: 15px;
+    background-color: bisque;
+    color: blueviolet;
+}
+#contatti h3{
+    text-align: center;
+}
+
+#contatti ul li {
+list-style: none;
+}
+#contatti ul li img {
+
+    margin-right: 10px;
+}
+#Conoscenze ul li{
+    color: red;
+    list-style-type:lower-roman;
+}
+footer{
+    background-color: aquamarine;
+ 
+}
+footer p{
+    margin: 0;
+
+}
